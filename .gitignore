@@ -1,0 +1,12 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Streamlit specific
+.streamlit/
+
+# System specific
+.DS_Store
