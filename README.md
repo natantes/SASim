@@ -2,8 +2,7 @@
 
 This application demonstrates different approaches to solving the Traveling Salesman Problem (TSP) using Simulated Annealing (SA) and Machine Learning techniques.
 
-
-<img width="1512" alt="Screenshot 2025-01-04 at 3 49 14 PM" src="https://github.com/user-attachments/assets/b9f7afb3-114b-4004-82ba-d68b0d77d49a" />
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/839e2c31-0be2-421a-9cd1-9183d7f3481f" />
 
 ## Problem Overview
 
