@@ -18,14 +18,7 @@ The classic implementation uses pure SA with the following features:
 - Gradually decreasing temperature to focus on improvements
 - Multiple cooling schedules (Exponential, Linear, Quadratic, Logarithmic)
 
-### 2. ML-Enhanced Simulated Annealing
-The ML-enhanced version adds:
-- K-means clustering to group nearby cities
-- Intelligent initial tour generation based on clusters
-- Cluster-aware visualization
-- Maintains all features of classic SA
-
-## Installation
+## Try it!
 
 1. Clone the repository:
 ```bash
